@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I am Hanitra 👋
 
-<!--
-**HanitraMelodie/HanitraMelodie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning Typescript/Javascript/React/Python.
+- 💼 I work as an Associate Full Stack Developer at Ki insurance.
+-  💼 I work as a freelance Lead Instructor at Code First Girl.
+-   💼 I volunteer as Front end developer at PrepTrack foundation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- 🔭 I'm proficient in  Typescript/Javascript/React/Kotlin/SQL.
+- 🌐 You can check out my website at https://hanitrarakotoarimananaportfolio.netlify.app/.
+- 📦 My projects are hosted on [GitHub](https://github.com/HanitraMelodie).
+
+## GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+
+## Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/hanitra-rakotoarimanana-2b171596/
+- Email: hanitrar5@gmail.com
