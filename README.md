@@ -3,7 +3,7 @@
 ## About Me
 
 - 🌱 I'm currently learning Typescript/Javascript/React/Python.
-- 💼 I work as an Associate Full Stack Developer at Ki insurance.
+- I am currently looking for a new full time job as an Full Stack or Front end developer
 -  💼 I work as a freelance Lead Instructor at Code First Girl.
 -   💼 I volunteer as Front end developer at PrepTrack foundation.
 
