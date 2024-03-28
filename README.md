@@ -1,15 +1,14 @@
 ### Hi there, I am Hanitra 👋
 
 ## About Me
-
-- 🌱 I'm currently learning Typescript/Javascript/React/Python.
-- I am currently looking for a new full time job as an Full Stack or Front end developer
--  💼 I work as a freelance Lead Instructor at Code First Girl.
--   💼 I volunteer as Front end developer at PrepTrack foundation.
+- I am currently looking for a new full-time job as a Full Stack or Front end developer
+- 💼 I work as a freelance Lead Instructor at Code First Girl.
+- 💼 I volunteer as Front end developer at PrepTrack Foundation.
 
 ## Technologies
 
-- 🔭 I'm proficient in  Typescript/Javascript/React/Kotlin/SQL.
+- 🔭 I'm proficient in  Typescript/Javascript/React
+- 🌱 I'm currently learnin Python/Kotlin/SQL.
 - 🌐 You can check out my website at https://hanitrarakotoarimananaportfolio.netlify.app/.
 - 📦 My projects are hosted on [GitHub](https://github.com/HanitraMelodie).
 
