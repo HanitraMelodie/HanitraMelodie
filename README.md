@@ -7,9 +7,9 @@
 
 ## Technologies
 
-- 🔭 I'm proficient in  Typescript/Javascript/React
-- 🌱 I'm currently learnin Python/Kotlin/SQL.
-- 🌐 You can check out my website at https://hanitrarakotoarimananaportfolio.netlify.app/.
+- 🔭 I'm proficient in  Typescript/Javascript/React/Angular
+- 🌱 I'm currently learnin PLSQL
+- 🌐 You can check out my website at https://hanitramelodierakotoarimanana.netlify.app
 - 📦 My projects are hosted on [GitHub](https://github.com/HanitraMelodie).
 
 ## GitHub Stats
