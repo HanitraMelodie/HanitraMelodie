@@ -1,9 +1,7 @@
 ### Hi there, I am Hanitra 👋
 
 ## About Me
-- I am currently looking for a new full-time job as a Full Stack or Front end developer
-- 💼 I work as a freelance Lead Instructor at Code First Girl.
-- 💼 I volunteer as Front end developer at PrepTrack Foundation.
+- 💼 I am currently working as a Full Stack developer in a Fintech company
 
 ## Technologies
 
